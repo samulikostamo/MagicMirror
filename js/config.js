@@ -12,7 +12,7 @@ var weatherParams = {
 };
 
 //var feed = 'http://www.hs.fi/uutiset/rss/';
-var feed = 'http://feeds.feedburner.com/ampparit-kaikki-rss';
+var feed = 'http://mix.chimpfeedr.com/0ab83-hspriority';
 //var feed = 'http://www.nu.nl/feeds/rss/opmerkelijk.rss';
 //var feed = 'http://www.nytimes.com/services/xml/rss/nyt/HomePage.xml';
 
